@@ -1,0 +1,4 @@
+usage: ./megoxer <ip> <port> <time>
+expire on: 07-02-2025
+works 10/10 attack on vps 
+after 1 match restart the game
